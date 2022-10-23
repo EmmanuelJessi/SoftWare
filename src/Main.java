@@ -76,7 +76,7 @@ public class Main {
         System.out.println("Pupil Marks for Storytelling: " + marksForStoryTelling);
         System.out.println("Pupil Total Marks: " + totalMarks + "/400");
         System.out.println("Pupil Average Marks: " + averageMarks);
-        System.out.println("Pupil Class Strength: " + (averageMarks/15) + 5);
+        System.out.println("Pupil Class Strength: " + (averageMarks/25) + 5);
 
 
     }
